@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Forward\Codegym\Projects\M4_[BC-JAVA-WBDS] Web Back-end Development with Spring MVC 2.0\Main\book-manager-crud-search\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
